@@ -12,14 +12,13 @@ Software Developer | Python • Django • React • SQL • Machine Learning
 
 ## 👩‍💻 About Me
 
+- 🎓 B.E. Graduate with a strong interest in Software Development and Full-Stack Development
 - 💻 I'm a **Software Developer** interested in building web applications and intelligent solutions.
 - 🐍 I work with **Python, Django, React, JavaScript and SQL**.
 - 🤖 Interested in **Machine Learning and Deep Learning**.
-- 🦵 Currently working on a **Knee Ligament Tear Detection** project using Deep Learning.
 - 🌱 Currently learning **Advanced Django, React & REST APIs**.
 - 🚀 I enjoy learning new technologies and building practical projects.
-
----
+  _ __ _
 
 ## 🛠️ Skills
 
