@@ -1,110 +1,148 @@
 <h1 align="center">Hi 👋, I'm Soumya Dixit</h1>
 
 <h3 align="center">
-  💻 Software Developer | Python • Django • React • SQL
+Software Developer | Python • Django • React • SQL • Machine Learning
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soumyadixit02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=soumyadixit02&label=Profile%20Views&color=0e75b6&style=flat" alt="soumyadixit02" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 B.E. Graduate with a strong interest in Software Development and Full-Stack Development.
-
-💻 I enjoy building practical applications using **Python, Django, React, JavaScript and SQL**.
-
-🧠 I also explore **Machine Learning, Deep Learning and Computer Vision** through real-world projects.
-
-🚀 Currently improving my skills in **Django, React, REST APIs and Full-Stack Development**.
-
-📌 I believe in learning by building, solving problems and continuously improving my code.
+- 💻 I'm a **Software Developer** interested in building web applications and intelligent solutions.
+- 🐍 I work with **Python, Django, React, JavaScript and SQL**.
+- 🤖 Interested in **Machine Learning and Deep Learning**.
+- 🦵 Currently working on a **Knee Ligament Tear Detection** project using Deep Learning.
+- 🌱 Currently learning **Advanced Django, React & REST APIs**.
+- 🚀 I enjoy learning new technologies and building practical projects.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 ### 💻 Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+
+<p align="left">
+<a href="https://www.python.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+width="45" height="45"/>
+</a>
+
+<a href="https://www.cprogramming.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+width="45" height="45"/>
+</a>
 </p>
 
 ### 🌐 Web Development
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+
+<p align="left">
+
+<a href="https://www.w3.org/html/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+width="45" height="45"/>
+</a>
+
+<a href="https://www.w3schools.com/css/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+width="45" height="45"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+width="45" height="45"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+width="45" height="45"/>
+</a>
+
+<a href="https://www.djangoproject.com/">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg"
+width="45" height="45"/>
+</a>
+
 </p>
 
-### 🗄️ Database & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+### 🗄️ Database
+
+<p align="left">
+
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+width="45" height="45"/>
+</a>
+
 </p>
 
-### 🤖 AI & Data
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn"/>
+### 🤖 AI & Machine Learning
+
+<p align="left">
+
+<a href="https://pytorch.org/">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
+width="45" height="45"/>
+</a>
+
+<a href="https://opencv.org/">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
+width="45" height="45"/>
+</a>
+
+<a href="https://scikit-learn.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+width="45" height="45"/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+width="45" height="45"/>
+</a>
+
+<a href="https://pytorch.org/vision/stable/">
+<img src="https://raw.githubusercontent.com/pytorch/vision/main/docs/source/_static/img/torchvision_logo.svg"
+width="45" height="45"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🦵 Knee Ligament Detection
+### 🦵 Knee Ligament Tear Detection
+
 **Deep Learning Based Knee Ligament Classification**
 
-- Developed an MRI image classification system using deep learning.
-- Classifies images into **ACL Tear, LCL Tear, MCL Tear, Normal and PCL Tear**.
-- Built an interactive prediction interface using **Streamlit**.
-- Used **PyTorch, OpenCV and Scikit-learn** for model development and evaluation.
-
-**Tech:** Python • PyTorch • OpenCV • Scikit-learn • Streamlit
-
----
-
-### 🛒 E-Commerce Web Application
-
-- Developed a full-stack web application for managing products and users.
-- Implemented product browsing, search and user interaction features.
-- Designed responsive interfaces using modern web technologies.
-
-**Tech:** Python • Django • HTML • CSS • JavaScript • MySQL
-
----
-
-### 🌐 Portfolio Website
-
-- Designed a responsive personal portfolio website.
-- Showcases skills, projects, education and professional information.
-- Focused on clean UI and user-friendly navigation.
-
-**Tech:** HTML • CSS • JavaScript
+- Developed a deep learning model for classifying knee MRI images.
+- Detects **ACL, LCL, MCL, PCL tears and Normal cases**.
+- Used **PyTorch and Torchvision** for model development.
+- Used **OpenCV** for image processing.
+- Used **Scikit-learn** for model evaluation and performance metrics.
+- Built a user-friendly interface using **Streamlit**.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Django & Advanced Django
-- React.js
+- Advanced Django
+- React
 - REST APIs
-- Full-Stack Development
-- Database Management
-- Software Development Best Practices
+- Machine Learning
+- Deep Learning
+
+---
+
+## 🤝 Looking to Collaborate On
+
+- Python Projects
+- Django Web Applications
+- Machine Learning Projects
+- Full-Stack Web Development
 
 ---
 
@@ -114,20 +152,16 @@
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Connect With Me
 
 <p align="left">
 
-<a href="https://github.com/soumyadixit02" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/soumya-dixit-46845b3a8/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://github.com/soumyadixit02">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:soumyadixit4582@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -137,21 +171,29 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyadixit02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=soumyadixit02&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadixit02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadixit02&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadixit02&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadixit02&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<h3 align="center">🚀 Building. Learning. Improving.</h3>
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <i>Thanks for visiting my profile!</i>
+<img src="https://github-profile-trophy.vercel.app/?username=soumyadixit02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+
+<p align="center">
+⭐ Feel free to explore my repositories and projects!
 </p>
