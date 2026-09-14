@@ -191,8 +191,9 @@ width="45" height="45"/>
 
 ---
 
-## 📊 GitHub Statistics
+---
 
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soumyadixit02&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -202,14 +203,6 @@ width="45" height="45"/>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadixit02&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=soumyadixit02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
