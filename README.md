@@ -127,7 +127,7 @@ width="45" height="45"/>
 **Tech:** Python • PyTorch • OpenCV • Scikit-learn • Streamlit
 
 
-  ### 🛒 E-Commerce Web Application
+### 🛒 E-Commerce Web Application
 
 - Developed a full-stack web application for managing products and users.
 - Implemented product browsing, search and user interaction features.
@@ -175,6 +175,10 @@ width="45" height="45"/>
 
 <p align="left">
 
+<a href="https://www.linkedin.com/in/soumya-dixit-46845b3a8/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 <a href="https://github.com/soumyadixit02">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -189,12 +193,11 @@ width="45" height="45"/>
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=soumyadixit02&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadixit02&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soumyadixit02&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadixit02&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
