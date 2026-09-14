@@ -115,18 +115,37 @@ width="45" height="45"/>
 
 ## 🚀 Projects
 
-### 🦵 Knee Ligament Tear Detection
+###  Knee Ligament Tear Detection and Classification
 
 **Deep Learning Based Knee Ligament Classification**
 
 - Developed a deep learning model for classifying knee MRI images.
 - Detects **ACL, LCL, MCL, PCL tears and Normal cases**.
-- Used **PyTorch and Torchvision** for model development.
+- Used **PyTorch**  for model development.
 - Used **OpenCV** for image processing.
 - Used **Scikit-learn** for model evaluation and performance metrics.
 - Built a user-friendly interface using **Streamlit**.
+**Tech:** Python • PyTorch • OpenCV • Scikit-learn • Streamlit
 
----
+
+  ### 🛒 E-Commerce Web Application
+
+- Developed a full-stack web application for managing products and users.
+- Implemented product browsing, search and user interaction features.
+- Designed responsive interfaces using modern web technologies.
+
+**Tech:** Python • Django • HTML • CSS • JavaScript • MySQL 
+
+
+### 🌐 Portfolio Website
+
+- Designed a responsive personal portfolio website.
+- Showcases skills, projects, education and professional information.
+- Focused on clean UI and user-friendly navigation.
+
+**Tech:** HTML • CSS • JavaScript
+
+
 
 ## 🌱 Currently Learning
 
