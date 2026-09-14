@@ -195,11 +195,6 @@ width="45" height="45"/>
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyadixit02&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadixit02&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadixit02&theme=tokyonight&hide_border=true" />
